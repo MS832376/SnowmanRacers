@@ -1,5 +1,4 @@
 # Snowman Racers
-Repository for Team A Project 2
 
 Snowman Racers is a 2D multiplayer platformer set in a Winter Wonderland.
 You play as a snowman! Racing, to get to the finish line before your snowman brothers. 
