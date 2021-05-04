@@ -7,4 +7,4 @@ You'll be wearing the green hat, while your brothers will wear the red.
 Upon completion of the race a leaderboard will pop up with everyone's times, if you race through the entire gme it will show everyone's total times.
 Run, jump, and climb your way to victory in this fun Platformer Royale!
 
-This started out as a team project made in collaboration with Noah Demi and Matthew Tomko for school, but I really like the idea so I plan on expanding upon and improving it.
+This started out as a team project made in collaboration with Noah Demi and Matthew Tomko for West Chester University, but I really like the idea so I plan on expanding upon and improving it.
